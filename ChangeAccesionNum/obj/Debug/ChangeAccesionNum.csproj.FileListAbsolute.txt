@@ -1,0 +1,22 @@
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.exe.config
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.exe
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.pdb
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.AssemblyReference.cache
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.SuggestedBindingRedirects.cache
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.Form1.resources
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.Properties.Resources.resources
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.GenerateResource.cache
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.CoreCompileInputs.cache
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.exe
+P:\#A-Donghan\#A-CODE-C#\EBM\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.pdb
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.exe.config
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.exe
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.pdb
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.AssemblyReference.cache
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.SuggestedBindingRedirects.cache
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.Form1.resources
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.Properties.Resources.resources
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.GenerateResource.cache
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.CoreCompileInputs.cache
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.exe
+P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.pdb
