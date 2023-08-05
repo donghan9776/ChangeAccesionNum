@@ -20,3 +20,14 @@ P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Deb
 P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.CoreCompileInputs.cache
 P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.exe
 P:\#A-Donghan\#A-CODE-C#\GitHub Push\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.pdb
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.exe.config
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.exe
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\bin\Debug\ChangeAccesionNum.pdb
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.AssemblyReference.cache
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.Form1.resources
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.Properties.Resources.resources
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.GenerateResource.cache
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.csproj.CoreCompileInputs.cache
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.exe
+C:\Users\dongh\Desktop\ChangeAccesionNum\ChangeAccesionNum\obj\Debug\ChangeAccesionNum.pdb
